@@ -1,12 +1,35 @@
-# React + Vite
+# 🚀 Portfólio Pessoal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém o código-fonte do meu portfólio pessoal online. Desenvolvido para apresentar minhas habilidades, projetos e a jornada como desenvolvedora front-end.
 
-Currently, two official plugins are available:
+## ✨ Sobre o Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O objetivo principal foi criar uma plataforma moderna, responsiva e de fácil navegação. O site é uma Single Page Application (SPA) construída com **React.js** e estilizada com **CSS** puro, demonstrando meu domínio em tecnologias essenciais do desenvolvimento web.
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologias Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-   **Frontend:** React.js, HTML5, CSS3.
+-   **Bibliotecas de UI:** Remix Icon, @lobehub/icons.
+-   **Ferramentas:** Git, GitHub, Vite.
+
+## 📦 Como Rodar Localmente
+
+1.  Clone o repositório:
+    ```bash
+    git clone [https://github.com/laribacelar/seu-repositorio.git](https://github.com/laribacelar/seu-repositorio.git)
+    ```
+2.  Instale as dependências:
+    ```bash
+    npm install
+    ```
+3.  Inicie o servidor de desenvolvimento:
+    ```bash
+    npm run dev
+    ```
+
+## 🔗 Links
+
+-   **Ver o Site Online:** [https://larissabacelar.com.br/]
+-   **Ver o Código no GitHub:** [https://github.com/laribacelar/larissabacelar]
+
+---
